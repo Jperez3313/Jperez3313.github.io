@@ -1,4 +1,4 @@
-# Personal Website
+# Jackson Perez
 ## Socials
 **List of social media pages** 
 - [Github](https://github.com/Jperez3313)
