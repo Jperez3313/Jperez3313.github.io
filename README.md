@@ -1,5 +1,7 @@
 # Jackson Perez
 
+# Personal Website 
+
 ## About me...
 My name is Jackson Perez.  I am pursuing an Associates degree in cybersecurity with a certification in programming.  My favorite language is python and eventually I would like to work my way up to a sys-admin postion.
  
@@ -14,5 +16,5 @@ My name is Jackson Perez.  I am pursuing an Associates degree in cybersecurity w
 - Phone: (860)995-7241
 
 
-![coding Image](./Images/coding.jpg "Coding")
+![Coding Image](./Images/Coding.jpg "Coding")
 
