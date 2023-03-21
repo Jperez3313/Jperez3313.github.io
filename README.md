@@ -9,7 +9,7 @@ My name is Jackson Perez.  I am pursuing an Associates degree in cybersecurity w
 **List of social media pages** 
 - [Github](https://github.com/Jperez3313)
 - [Email](https://gmail.com)
-
+- [Google](https://google.com)
 
 ## Contact information 
 1. Gmail: japerez0001@student.stcc.edu
